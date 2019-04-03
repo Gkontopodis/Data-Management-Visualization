@@ -32,19 +32,16 @@ Estimated number of joints smoked per month binned to groups as illustrated abov
 
 ### Bivariate graphs:
 ![out6](https://github.com/Gkontopodis/Data-Management-Visualization/blob/master/Assignment%20Week%204/Graphs%20-%20Screenshots/out6.png)
-
 ![out7](https://github.com/Gkontopodis/Data-Management-Visualization/blob/master/Assignment%20Week%204/Graphs%20-%20Screenshots/out7.png)
 
 In the bar charts above we can see the relationship between quantity of joints smoked per month by cannabis user, aged 18 to 30 years old, and both major depression (first) and general anxiety (second) diagnoses in the last 12 months (Q->C). The explanatory variable is quantity of joints (quantitative), while the response variables are depression and anxiety diagnoses (categorical). There is a slightly increasing trend in the first graph, but not in the second.
 
 ![out10](https://github.com/Gkontopodis/Data-Management-Visualization/blob/master/Assignment%20Week%204/Graphs%20-%20Screenshots/out10.png)
-
 ![out11](https://github.com/Gkontopodis/Data-Management-Visualization/blob/master/Assignment%20Week%204/Graphs%20-%20Screenshots/out11.png)
 
 In the graphs presented above we can see the correlation between frequency of cannabis use and both major depression and general anxiety (C->C). The explanatory variable is frequency of cannabis use (categorical), while the response variables are depression and anxiety diagnoses (categorical). Again, for the first graph we have a right-skewed distribution, which indicates that the more an individual smoked cannabis, the better were the chances to get diagnosed with depression. However, we cannot support the same as far as anxiety is concerned, which appears to have a more raffle and abnormal distribution. 
 
 ![out8](https://github.com/Gkontopodis/Data-Management-Visualization/blob/master/Assignment%20Week%204/Graphs%20-%20Screenshots/out8.png)
-
 ![out9](https://github.com/Gkontopodis/Data-Management-Visualization/blob/master/Assignment%20Week%204/Graphs%20-%20Screenshots/out9.png)
 
 The graphs presented above illustrate the association between cannabis use and both major depression and general anxiety diagnoses in young adults, aged from 18 to 30 years old, in the last 12 months (C->C). The explanatory variable is cannabis use (categorical) and the response variables are depression and anxiety diagnoses (categorical).
