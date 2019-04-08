@@ -10,7 +10,7 @@ For the variable **‘AGE’** I decided to include two logic statements which a
 Same as subset1, the logic statements for  variable **‘AGE’** are  ['AGE’]>=18 and ['AGE’]<=30. Alternatively in this case, since we need to examine the results among only non-users young adults, the logic statement for cannabis use variable  **'S3BQ1A5’** is ['S3BQ1A5’]==2 (2=No).
 
 ## Frecuency Table
-![table](https://github.com/Gkontopodis/Data-Management-Visualization/blob/master/Assignment%20Week%202/Table/table.png)
+![table](https://github.com/Gkontopodis/Data-Management-Visualization/blob/master/Assignment%20Week%202/Table/Table.png)
 
 ## Report
 A random sample of 9535 U.S. young adults, aged 18-30, were asked, as a part of NESARC survey, the following question: “Have you ever used cannabis?” A percentage of 25.29% answered “Yes”, whereas 73.85% answered “No”. Also a significantly small percentage of 0.84%, fell into category 9 (“Unknown“) which is our missing data.
