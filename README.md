@@ -1,13 +1,14 @@
 # Data Management and Visualization
 This is a part of my weekly assignments for the first course of [Data Analysis and Interpretation Specialization](https://www.coursera.org/specializations/data-analysis), offered by Wesleyan University on Coursera. For the grading purposes of the course, the assignments were initially uploaded on [Tumblr](https://gkontopas.tumblr.com/post/181986635677/assignmentweek-1-developing-a-research-question).
 
-It is an attempt to develop a research question, describe the variables and their relationships and calculate basic statistics, based on existing data (U.S. National Epidemiological Survey on Alcohol and Related Conditions-NESARC).
+It is an attempt to develop a research question, describe the variables (frequency tables), visualize their relationships and calculate basic statistics, based on existing data (U.S. National Epidemiological Survey on Alcohol and Related Conditions-NESARC).
 
-For the code and the output i used **Spyder (IDE)**.
-
-## How to run
-### Requirements
-Requires **python 2.7+**.
+For the code and the output i used **Spyder (IDE)**. Requires **python 2.7+**.
+## Course 4-Week Syllabus
+1. Selecting a research question
+2. Writing the first program - SAS or Python
+3. Managing Data
+4. Visualizing Data
 
 ## Sample
 The data was provided by the National Epidemiological Survey on Alcohol and Related Conditions (NESARC), which was conducted in a random sample of 43,093 U.S. adults and designed to determine the magnitude of alcohol use and psychiatric disorders. Sample size is important because the larger the sample size, the more accurate the findings. NESARC’s unusually large sample size also made it possible to achieve stable estimates of even rare conditions. NESARC participants came from all walks of life and a variety of ages, and the level of analysis studied was individual. They represented all regions of the United States and included residents of the District of Columbia, Alaska, and Hawaii. In addition to sampling individuals living in traditional households, NESARC investigators questioned military personnel living off base and people living in a variety of group accommodations such as boarding or rooming houses and college quarters. More specifically, the sample consists of 24,575 (57.1%) males and 18,518 (42.9%) females, among of whom 9,535 (22.13%) were aged between 18 and 30 years old. The data analytic subset, examined in this study, includes individuals aged between 18 and 30 years old who reported using cannabis at least once in their life (N=2,412).
