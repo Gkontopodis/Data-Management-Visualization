@@ -1,5 +1,5 @@
 # Data Management and Visualization
-This is a part of my weekly assignments for the first course of [Data Analysis and Interpretation Specialization](https://www.coursera.org/specializations/data-analysis), offered by Wesleyan University on Coursera. For the grading purposes of the course, the assignments were initially uploaded on [Tumblr](https://gkontopas.tumblr.com/post/181986635677/assignmentweek-1-developing-a-research-question).
+This is an introduction for the first course of [Data Analysis and Interpretation Specialization](https://www.coursera.org/specializations/data-analysis), offered by Wesleyan University through Coursera. For the grading purposes of the course, the assignments were initially uploaded on [Tumblr](https://gkontopas.tumblr.com/post/181986635677/assignmentweek-1-developing-a-research-question).
 
 It is an attempt to develop a research question, describe the variables (frequency tables), visualize their relationships and calculate basic statistics, based on existing data (U.S. National Epidemiological Survey on Alcohol and Related Conditions-NESARC).
 
